@@ -12,6 +12,7 @@ function add(no1:number,no2:number): number {
     
     return no1+no2;
 
+    
 }
 
 add(10,20);
